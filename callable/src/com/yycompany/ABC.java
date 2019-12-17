@@ -92,5 +92,6 @@ public class ABC {
             for (int i = 1; i < 10; i++)
                 share.print();
         },"C").start();
+        System.out.println("哈哈哈哈哈");
     }
 }
