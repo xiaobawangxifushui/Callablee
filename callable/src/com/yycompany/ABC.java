@@ -94,5 +94,6 @@ public class ABC {
         },"C").start();
         System.out.println("哈哈哈哈哈");
         System.out.println("ddddd");
+        System.out.println("dddd");
     }
 }
